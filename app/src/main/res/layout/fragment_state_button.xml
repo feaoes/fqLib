@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_horizontal"
+    >
+
+    <com.swmofang.fqlib.widget.StateButton
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:text="StateButton"
+        app:radius="5dp"
+        app:round="true"
+        app:animationDuration="200"
+        app:strokeDashGap="2dp"
+        app:strokeDashWidth="5dp"
+        app:normalStrokeWidth="2dp"
+        app:pressedStrokeWidth="2dp"
+        app:unableStrokeWidth="2dp"
+
+        app:normalStrokeColor="@android:color/white"
+        app:pressedStrokeColor="@android:color/white"
+        app:unableStrokeColor="@android:color/white"
+
+        app:normalTextColor="@android:color/white"
+        app:pressedTextColor="@android:color/white"
+        app:unableTextColor="@android:color/white"
+
+        app:normalBackgroundColor="@color/colorPrimaryDark"
+        app:pressedBackgroundColor="@color/colorPrimaryDark"
+        app:unableBackgroundColor="@color/colorPrimaryDark"
+        android:layout_marginBottom="10dp"
+        />
+
+    <com.swmofang.fqlib.widget.StateButton
+        android:id="@+id/stateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:text="StateButton"
+
+        app:radius="5dp"
+        app:animationDuration="200"
+        app:strokeDashGap="2dp"
+        app:strokeDashWidth="5dp"
+        app:normalStrokeWidth="2dp"
+        app:pressedStrokeWidth="2dp"
+        app:unableStrokeWidth="2dp"
+
+        app:normalStrokeColor="@android:color/white"
+        app:pressedStrokeColor="@android:color/white"
+        app:unableStrokeColor="@android:color/white"
+
+        app:normalTextColor="@android:color/white"
+        app:pressedTextColor="@android:color/white"
+        app:unableTextColor="@android:color/white"
+
+        app:normalBackgroundColor="@color/colorPrimaryDark"
+        app:pressedBackgroundColor="@color/colorPrimaryDark"
+        app:unableBackgroundColor="@color/colorPrimaryDark"
+        android:layout_marginBottom="10dp"
+        />
+
+    <com.swmofang.fqlib.widget.StateImageView
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        app:normalBackground="@color/colorPrimary"
+        app:pressedBackground="@color/colorPrimaryDark"
+        app:unableBackground="@color/colorAccent"
+        android:layout_marginBottom="10dp"
+        />
+
+</LinearLayout>

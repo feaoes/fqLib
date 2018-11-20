@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <com.swmofang.fqlib.widget.ArrowRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorAccent"
+        app:showArrow="true"
+        app:showDivider="true"
+        app:arrowImageSrc="@mipmap/ic_launcher"
+        app:arrowImageWidth="30dp"
+        app:arrowImageHeight="30dp"
+        app:dividerWidth="4dp"
+        app:dividerColor="@color/colorPrimary"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Text1"
+            android:layout_centerVertical="true"
+            />
+
+    </com.swmofang.fqlib.widget.ArrowRelativeLayout>
+
+    <com.swmofang.fqlib.widget.ArrowRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorAccent"
+        app:showArrow="true"
+        app:showDivider="true"
+        app:dividerWidth="1dp"
+        app:dividerColor="@color/black"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Text1"
+            android:layout_centerVertical="true"
+            />
+    </com.swmofang.fqlib.widget.ArrowRelativeLayout>
+
+    <com.swmofang.fqlib.widget.ArrowRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorAccent"
+        app:showArrow="true"
+        app:showDivider="true"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Text1"
+            android:layout_centerVertical="true"
+            />
+    </com.swmofang.fqlib.widget.ArrowRelativeLayout>
+    <com.swmofang.fqlib.widget.ArrowRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorAccent"
+        app:showArrow="true"
+        app:showDivider="true"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Text1"
+            android:layout_centerVertical="true"
+            />
+    </com.swmofang.fqlib.widget.ArrowRelativeLayout>
+</LinearLayout>

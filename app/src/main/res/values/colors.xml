@@ -3,4 +3,70 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="bg_common">#ffffff</color>
+    <color name="bg_common_lighter">#f5f5f5</color>
+    <color name="bg_common_blue">#81cdf5</color>
+    <color name="blue_before_class" >#8cc5fd</color>
+    <color name="bg_title">#ffffff</color>
+    <color name="orange_indicator">#FFC740</color>
+
+    <color name="black">#4d4d4d</color>
+    <color name="gray_bg">#414141</color>
+    <color name="gray_bg_1">#F2F2F2</color>
+    <color name="gray_darker">#666666</color>
+    <color name="gray_dark">#808080</color>
+    <color name="gray_light">#999999</color>
+    <color name="gray_light_special_1">#b3b3b3</color>
+    <color name="gray_light_special_2">#454553</color>
+    <color name="gray_light_special_3">#4d4d4d</color>
+    <color name="gray_lighter">#cccccc</color>
+    <color name="black_tab_bg" >#4e4f5a</color>
+    <color name="black_light" >#44000000</color>
+    <color name="black_normal" >#bb000000</color>
+    <color name="black_darker" >#dd000000</color>
+    <color name="black_darkest" >#ff000000</color>
+    <color name="blue_light">#a7c2ff</color>
+    <color name="blue_dark">#47a0f6</color>
+    <color name="blue_normal">#38a4e7</color>
+    <color name="transparent_middle">#88000000</color>
+    <color name="transparent_middle_larger">#90000000</color>
+    <color name="blue_indicator" >#0C78E4</color>
+    <color name="green_indicator" >#3DAD00</color>
+    <color name="green_bg_darker" >#4cb050</color>
+    <color name="green_bg_special_1" >#66B92E</color>
+    <color name="orange_bg_special_1" >#EDBA39</color>
+    <color name="orange_bg_special_2" >#FFC600</color>
+    <color name="orange_bg_special_3" >#FFB555</color>
+    <color name="orange_bg_special_4" >#FFA32C</color>
+    <color name="red_bg_special_1" >#EA3A5B</color>
+    <color name="green_bg_special_pressed_1" >#54A21F</color>
+    <color name="orange_bg_special_pressed_1" >#D6A52B</color>
+    <color name="red_bg_special_pressed_1" >#D42A4A</color>
+    <color name="orange_normal" >#fb8043</color>
+    <color name="orange_pressed" >#aafb8043</color>
+    <color name="orange_before_class" >#fec984</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_light">#c8e3fc</color>
+    <color name="red_light">#ff0000</color>
+    <color name="red_lighter">#ff6666</color>
+    <color name="transparent">#00000000</color>
+    <color name="green_before_class">#a5cf8e</color>
+    <color name="white_before_class">#99ffffff</color>
+    <color name="gray_edittext_stroke">#a0a0a6</color>
+    <color name="pink_normal">#fa80a1</color>
+    <color name="yellow_normal">#ffc740</color>
+    <color name="divider_color">#e6e6e6</color>
+    <color name="gray_tablayout_stroke">#d9d9d9</color>
+    <color name="main_summary" >#80454449</color>
+    <color name="elevation_color_bg">#99000000</color>
+    <color name="txt_title_gold">#9e6e33</color>
+    <color name="purple_normal">#8F51F6</color>
+    <color name="middle_transparent">#dd000000</color>
+    <color name="green_bg_darkest">#4CB050</color>
+    <color name="dialog_common_bg">#DEDCD8</color>
+    <color name="menu_shadow_color">#66000000</color>
 </resources>
